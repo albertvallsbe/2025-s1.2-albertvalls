@@ -1,0 +1,13 @@
+:root {
+    /* Project color palette */
+    --primary: rgb(36, 41, 70);
+    --secondary: rgb(201, 201, 207);
+    --white: #ffffff;
+    --blue: rgb(80, 102, 223);
+    --gray: rgb(247, 247, 247);
+    --red: rgb(251, 88, 89);
+
+    /* Shadows / overlays */
+    --primary-shadow: rgba(36, 41, 70, 0.9);
+    --white-shadow: rgba(255, 255, 255, 0.1);
+}

@@ -5,12 +5,14 @@
     "main": "index.js",
     "scripts": {
         "tailwind": "npx tailwindcss -i tailwind.css -o styles.css",
-        "tailwind-watch": "npx tailwindcss -i tailwind.css -o styles.scss --watch"
+        "tailwind-watch": "npx tailwindcss -i tailwind.css -o styles.css --watch"
     },
     "keywords": [],
     "author": "",
     "license": "ISC",
     "devDependencies": {
+        "autoprefixer": "^10.4.21",
+        "postcss": "^8.5.3",
         "tailwindcss": "3.4.17"
     }
 }
